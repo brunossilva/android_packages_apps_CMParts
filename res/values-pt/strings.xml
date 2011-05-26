@@ -592,8 +592,8 @@
     <string name="ui_status_bar_am_pm_summary">Mostrar AM/PM ao lado do relógio</string>
     <string name="pref_in_call_style_title">Estilo de ligação recebida</string>
     <string name="pref_in_call_style_summary">Escolher o estilo do widget de aceitar/rejeitar ligações recebidas</string>
-    <string name="permissions_settings_title_head">Permissiões</string>
-    <string name="permissions_settings_title_subhead">Gerenciar confirações de permissões</string>
+    <string name="permissions_settings_title_head">Permissões</string>
+    <string name="permissions_settings_title_subhead">Gerenciar configurações de permissões</string>
     <string name="pref_volume_wake_title">Acordar com botão volume</string>
     <string name="pref_volume_wake_summary">Acorda o dispositivo ao apertar o botão de aumentar/abaixar volume. É indicado para dispositivos com botão de ligar difícil de apertar.</string>
     <string name="perm_enable_management">Habilitar gerenciamento</string>
